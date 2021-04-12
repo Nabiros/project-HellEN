@@ -3,8 +3,8 @@
  * Все паршалы подключаются сюда.
  */
 @import './utils/variables';
-@import './base/base';
 @import './utils/breakpoints';
+@import './base/base';
 @import './components/header';
 @import './components/mobile-menu';
 @import './components/hero';
